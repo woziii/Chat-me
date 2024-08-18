@@ -1,0 +1,6 @@
+accelerate
+gradio
+spaces
+torch
+transformers
+huggingface_hub==0.24.5
